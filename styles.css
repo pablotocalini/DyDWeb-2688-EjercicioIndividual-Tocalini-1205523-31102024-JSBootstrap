@@ -1,0 +1,4 @@
+.focus:focus {
+  border-color: #4caf50; /* Color de borde al estar enfocado */
+  box-shadow: 0 0 8px #4caf50;
+}
